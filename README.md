@@ -1,5 +1,5 @@
-Roshan-Muralidharan-FR-Algorithm-With-Crash-Recovery-
-=====================================================
+Roshan-Muralidharan-FR-Algorithm-With-Crash-Recovery
+====================================================
 
 <b>Project folders are included in the zip file:</b>
 
