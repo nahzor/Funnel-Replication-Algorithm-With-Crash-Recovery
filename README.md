@@ -1,11 +1,5 @@
 # FR-Algorithm-With-Crash-Recovery
 
-<b>Project folders are included in the zip file:</b>
-
-1.p2c
-2.p2ms
-3.p2s
-
 <b>How to run this applicaiton:</b>
 
 The main file in the folder p2ms should be run first.
