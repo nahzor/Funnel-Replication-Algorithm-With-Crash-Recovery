@@ -1,5 +1,4 @@
-FR-Algorithm-With-Crash-Recovery
-====================================================
+# FR-Algorithm-With-Crash-Recovery
 
 <b>Project folders are included in the zip file:</b>
 
@@ -19,5 +18,4 @@ After this, the client program can be run. This can be run from the java file in
 The program requires inputs : Client ID, Port to run a server that receives crash notifications from the server and a message that needs to be written to the file.
 
 <b>Reference:</b>
-
 http://www.ymsir.com/papers/fr-ladis.pdf
